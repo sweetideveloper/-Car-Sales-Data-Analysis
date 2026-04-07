@@ -1,4 +1,4 @@
-📊 Car Sales Data Analysis
+📊 Automotive Data Analysis
 
 This project focuses on analyzing car sales data to uncover key business insights and trends. The goal is to transform raw data into meaningful information that can support data-driven decision-making in the automobile industry.
 
