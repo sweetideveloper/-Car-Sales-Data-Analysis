@@ -9,11 +9,13 @@ Analyze overall sales trends and patterns
 Identify top-performing car models and categories
 Understand the impact of factors like price, location, and demand
 Generate insights to improve sales strategy
+
 ⚙️ Key Steps:
 Data Cleaning & Preprocessing
 Handling Missing Values
 GroupBy & Aggregation Analysis
 Data Visualization (charts, heatmaps, dashboards)
+
 📈 Key Insights:
 Discovered high-selling car segments and peak sales periods
 Identified factors influencing customer purchasing behavior
